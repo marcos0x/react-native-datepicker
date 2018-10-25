@@ -10,7 +10,16 @@ You will have an unified user experience, you won't have to worry anymore about 
 
 ## Setup
 
-This library is available on npm, install it with `npm install --save react-native-datepicker` or `yarn add react-native-datepicker`.
+This library is available on npm, install it with `npm install --save react-native-datepicker-nougat` or `yarn add react-native-datepicker-nougat`.
+
+
+### Link Library
+
+Run `react-native link rn-datepicker-nougat-spinner-fix`
+
+#### Manual
+
+Follow how to manually link a library here [https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content)
 
 ## Usage
 
