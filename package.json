@@ -1,6 +1,6 @@
 {
   "name": "react-native-datepicker-nougat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A react-native datetime-picker for Android and iOS",
   "main": "src/index.js",
   "typings": "src/index.d.ts",
